@@ -20,5 +20,11 @@
 ## 可执行程序位置
 
 1. Mac OS X: `bin/osx/ParticleEffects`，要用terminal才能启动
+
 2. Windows: `bin/win32/ParticleEffects.exe`
 
+注：因为resources文件夹太大了所以只在bin/win32里放了一份= =（高清贴图害死人）
+
+如果要在任何地方执行程序的话shaders和resources文件夹，还有assimp的dll必须放在当前目录位置
+
+不知道会不会换台电脑就出现运行问题......有问题请助教务必联系
